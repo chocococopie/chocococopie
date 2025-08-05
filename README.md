@@ -26,7 +26,7 @@ Frontend Developer • UI Explorer • Music Enthusiast
 🎧 Creator of a sound-mixing app for creative focus and relaxation  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/diana-shagiakhmetova/) · Email
 
-I’ve loved coding since 5th grade (2009), when I built my first games at school and made my teacher proud. Though I later studied civil engineering, the pandemic brought me back to what I truly love — coding — and I’ve been all in ever since.
+I’ve loved coding since 5th grade of middle school (2009!), when I built my first games at school and made my teacher proud. Though I later studied civil engineering, the pandemic brought me back to what I truly love — coding — and I’ve been all in ever since.
 
 ## 🚀 My Projects
 🎛️ Soundscapes UI – mix ambient sounds for focus & creativity  
