@@ -18,3 +18,15 @@ React · TypeScript · JavaScript · HTML · CSS · Figma · Git · Node.js
 
 ## ⚡ Fun fact: 
 I graduated high school with honors (one of only 3 that year!) — but showed up late to the ceremony because I was gluing on my nails. Still, I improvised a speech so bombastic it made the whole school tear up. No regrets.
+
+• I once coded a quiz game themed around my favorite artists 🎵  
+• I love giving creative projects cozy, minimalistic UI vibes ✨  
+• I collect weird product ideas just for fun 🧠  
+• My playlists are sorted by *mood*, not genre 🎧  
+• I drink too much tea while debugging 🍵  
+• I’ve lived in 10+ places around the world 🌍  
+• Frontend engineer by day, songwriter/singer by night 🎤  
+
+---
+
+💡 Passionate about **tech for creativity**, **web accessibility**, and **ambient experiences**
