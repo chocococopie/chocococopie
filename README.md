@@ -22,7 +22,7 @@ Frontend Developer • UI Explorer • Music Enthusiast
 Frontend Developer • UI Explorer • Music Enthusiast
 
 
-🌱 Currently learning React and building interactive UIs
+🌱 Currently learning React and building interactive UIs  
 🎧 Creator of a sound-mixing app for creative focus and relaxation
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/diana-shagiakhmetova/) · Email
 
