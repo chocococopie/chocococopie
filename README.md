@@ -3,7 +3,7 @@ Frontend Developer • UI Explorer • Music Enthusiast
 
 🌱 Currently learning React and building interactive UIs  
 🎧 Creator of a sound-mixing app for creative focus  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourusername)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/diana-shagiakhmetova/)
 
 ## 🚀 My Projects
 - 🎛️ [Soundscapes UI](https://github.com/yourusername/soundscapes) – mix ambient sounds for focus & creativity
