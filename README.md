@@ -15,6 +15,15 @@
 *Frontend Developer · UI Explorer · Lifelong Learner*  
 Tea drinker. Pixel perfectionist. Debugger whisperer.
 
+
+               🌷🌸🌷🌸
+         🌸🌷🌸🌷🌸
+      /ᐠ🌷🌸🌷🌸🌷
+   ( ˶ᵔ ᵕ ᵔ🌷🌸🌷
+       \ つ \       /
+       U U / 🎀 \
+
+
 I wrote my first lines of code in 5th grade, building silly games during computer class while the rest of the school played Minesweeper. My teacher was so impressed, she showed it to everyone. I was hooked.
 
 Later, I studied civil engineering (because life zigzags), but when the pandemic hit, I found myself back where I belonged — in the world of code, pixels, and logic puzzles. Since then, I’ve been deep-diving into frontend development, building creative tools, cozy interfaces, and ambient web experiences.
