@@ -1,7 +1,7 @@
 # About Me
 
 ## Hi, I’m Diana 👋  
-*Frontend Developer · UI Explorer · Sound-Mixing App Creator*  
+*Frontend Developer · UI Explorer · Lifelong Learner*  
 Tea drinker. Pixel perfectionist. Debugger whisperer.
 
 I wrote my first lines of code in 5th grade, building silly games during computer class while the rest of the school played Minesweeper. My teacher was so impressed, she showed it to everyone. I was hooked.
