@@ -72,5 +72,5 @@ If you're into thoughtful design, weird ideas, or just want to chat about access
 
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fueled+by+COMMITMENT+and+PUSHING;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fueled+by;+COMMITMENT+and+PUSHING;" />
 </h1>
