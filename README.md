@@ -7,6 +7,16 @@
 <details>
   <summary>Click for a little flower friend 🌷</summary>
 
+  ```
+               🌷🌸🌷🌸
+         🌸🌷🌸🌷🌸
+      /ᐠ🌷🌸🌷🌸🌷
+   ( ˶ᵔ ᵕ ᵔ🌷🌸🌷
+       \ つ \       /
+       U U / 🎀 \
+```
+</details>
+
 *Frontend Developer · UI Explorer · Lifelong Learner*  
 Tea drinker. Pixel perfectionist. Debugger whisperer.
 
