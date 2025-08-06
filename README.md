@@ -17,13 +17,14 @@ I’ve loved coding since 5th grade of middle school (2009!), when I built my fi
 React · TypeScript · JavaScript · HTML · CSS · Figma · Git · Node.js
 
 ## 💡 A Bit More About Me
-I love giving creative projects cozy, minimalistic UI vibes ✨
-I once coded a quiz game themed around my favorite artists 🎵
-I collect weird product ideas just for fun 🧠
-My playlists are sorted by mood, not genre 🎧
-Debugging is better with tea 🍵
-I’ve lived in over 10 places around the world 🌍
-Frontend engineer by day, singer/songwriter by night 🎤
+· I love giving creative projects cozy, minimalistic UI vibes ✨ 
+· I once coded a quiz game themed around my favorite artists 🎵 
+· I collect weird product ideas just for fun 🧠 
+· My playlists are sorted by mood, not genre 🎧 
+· Debugging is better with tea 🍵 
+· I’ve lived in over 10 places around the world 🌍 
+· Frontend engineer by day, singer/songwriter by night 🎤 
+
 ## ⚡ Fun fact: 
 I graduated high school with honors — but arrived late to the ceremony because I was gluing on my nails. Still nailed the speech.
 
