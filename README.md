@@ -16,9 +16,12 @@ I’m passionate about creating *human-friendly* UIs — minimal, intuitive, and
 
 **Projects I’ve built so far:**
 
-- 🎛️ **Soundscapes UI** – mix ambient sounds for creativity & calm  
-- 📚 **PhraseLoop** – smart language repetition that sticks  
-- 🎨 **Creativity Jar** – daily prompts for curious minds  
+- 🎛️ **Soundscapes UI**
+Because silence isn’t always golden — sometimes it’s birds, rain, and a crackling fireplace. Mix ambient sounds to create the perfect focus or relaxation soundtrack tailored just for you.
+- 📚 **PhraseLoop**
+A language-learning app that gets stuck in your head — in the best way. Using smart spaced repetition, it helps you remember phrases naturally and effortlessly.
+- 🎨 **Creativity Jar**
+Pull a prompt. Spark a thought. Rinse and repeat until your imagination runs wild. Daily creative prompts designed to keep your mind curious and inspired.
 
 _Check them out in my [Projects section](#)_
 
