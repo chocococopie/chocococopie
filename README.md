@@ -38,9 +38,11 @@ When I’m not coding, I’m probably:
 - Writing lyrics that make no sense (until they suddenly do)  
 - Sorting playlists by oddly specific moods like *“rainy logic errors”*  
 - Dreaming up strange app ideas just for fun (current favorite: “Excuse me, are you a tree?”)  
-- Gluing on my nails before life milestones (ask me about the time I gave a graduation speech late — and still nailed it)
 
 ---
+
+## ⚡ Fun fact: 
+I graduated high school with honors — but arrived late to the ceremony because I was gluing on my nails. Still nailed the speech.
 
 ## 🌍 A Few Final Facts
 
