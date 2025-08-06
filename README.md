@@ -27,6 +27,17 @@ I graduated high school with honors (one of only 3 that year!) — but showed up
 • I’ve lived in 10+ places around the world 🌍  
 • Frontend engineer by day, songwriter/singer by night 🎤  
 
+## 💡 A Bit More About Me
+I love giving creative projects cozy, minimalistic UI vibes ✨
+I once coded a quiz game themed around my favorite artists 🎵
+I collect weird product ideas just for fun 🧠
+My playlists are sorted by mood, not genre 🎧
+Debugging is better with tea 🍵
+I’ve lived in over 10 places around the world 🌍
+Frontend engineer by day, singer/songwriter by night 🎤
+## ⚡ Fun fact: 
+I graduated high school with honors — but arrived late to the ceremony because I was gluing on my nails. Still nailed the speech.
+
 ---
 
-💡 Passionate about **tech for creativity**, **web accessibility**, and **ambient experiences**
+Passionate about **tech for creativity**, **web accessibility**, and **ambient experiences**
